@@ -27,3 +27,14 @@ const regularUser = {
 // console.log(tinderUser.hasOwnProperty('isLoggedIn'))
 
 //4:21 complete
+
+
+//==============destructing object ==============================
+const course ={
+    coursename : 'javasropt',
+    price:"999",
+    courceinstructor : " swapnil"
+}
+const { courceinstructor } = course;
+
+console.log(courceinstructor);
