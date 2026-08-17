@@ -43,6 +43,6 @@ console.log(val1);
 const iceTeaPrice = 100
 iceTeaPrice >= 80 ? console.log("price grater than 80") : console.log("Price is less than 80 ");
 
-// timeLine  7:14 complete 
+// timeLine  7:14 complete  
 
 
