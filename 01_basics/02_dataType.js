@@ -1,14 +1,16 @@
 "use strict"; // trat all js code newer version 
-// alert(3+3) // we are using node.js , not browser 
+// alert(3+3) // we are using  in node.js , not in browser 
 
-console.log(3+3); console.log("swapnil") 
+console.log(3+3); console.log("swapnil")  //not compulsory to use semicolon 
+
 /*
+======DATATYPE======
 number => 2 to power 53
 bigint 
 string => ""
 boolean => true/false
 null => standlone value => object (datatype)
-undefined => abhivalue defined nahi hai =>undefined(datatype)
+undefined => abhi value defined nahi hai =>undefined(datatype)
 symbol => unique ness
 object 
 */

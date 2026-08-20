@@ -1,11 +1,12 @@
 let score = 33
+let score2 = "33"
 
-// console.log(typeof score);
-// console.log(typeof(score));
+//  console.log(typeof score);
+//  console.log(typeof(score2));
 
-let valueInNumber = Number(score)
-// console.log(typeof valueInNumber);
-// console.log( valueInNumber);
+let valueInNumber = Number("33")
+//  console.log(typeof valueInNumber);
+//  console.log(valueInNumber);
 
 
 //=======notes=====
@@ -17,8 +18,8 @@ let valueInNumber = Number(score)
 //===string conversion ===
 let someNum= 33
 let stringNum = String(someNum)
-// console.log(stringNum)
-// console.log(typeof stringNum)
+ console.log(stringNum)
+ console.log(typeof stringNum)
 
 //**********************  operation **********************
 
