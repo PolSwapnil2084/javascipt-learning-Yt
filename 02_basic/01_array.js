@@ -5,12 +5,14 @@ const name = ["ram","shyam"]
 //console.log(name[0])
 
 // Array Method 
+
 myArr.push(6) //=> add at end
 myArr.pop() // => remove frome end 
 myArr.unshift(9)//=> add at begining 
-myArr.shift() //=> remove from end 
+myArr.shift() //=> remove from first
 
-// we ask Q to arr 
+// we ask Question to arr
+ 
 // console.log(myArr.includes(5)) // => true
 // console.log(myArr.indexOf(4)) // nahi hai -1
 

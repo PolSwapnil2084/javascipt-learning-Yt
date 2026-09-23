@@ -1,5 +1,5 @@
 const score = 400
-//console.log(score)
+//console.log(score)  //400 
 
 const balance = new Number(100)
 // console.log(balance)
@@ -24,9 +24,9 @@ const hundreds =198387598
 // console.log(Math.floor(4.8))
 // console.log(Math.min(3,4,2,2,4,5))
 
-// console.log(Math.random())
-// console.log(Math.random()*10)
-//console.log((Math.random()*10)+1)
+ //console.log(Math.random())
+ //console.log(Math.random()*10) // isame 0.0somethig ho sakta hai 
+//console.log((Math.random()*10)+1) // isako avoid karane ke liye 
 
 const min = 25
 const max = 30

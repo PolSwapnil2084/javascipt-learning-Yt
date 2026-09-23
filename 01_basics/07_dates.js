@@ -2,7 +2,7 @@ let myDate = new Date()
 
 // console.log(myDate.toString())//Thu Aug 06 2026 13:38:12 GMT+0000 
 // console.log(myDate.toDateString()) // =>Thu Aug 06 2026
-// console.log(myDate.toLocaleDateString()) //=> 8/6/2026
+ console.log(myDate.toLocaleDateString()) //=> 8/6/2026
 // console.log(myDate.toLocaleTimeString())//1:41:11 PM but not valid
 // console.log(myDate.toUTCString()) //Thu, 06 Aug 2026 13:42:47 GMT
 // console.log(typeof myDate) // ImP interview ==> object
@@ -26,9 +26,9 @@ let newDate = new Date()
 // console.log(newDate)
 // console.log(newDate.getMonth())
 
-newDate.toLocaleString('default',{
-    weekday:"long",
-    timeZone:"Date"
-})
+// newDate.toLocaleString('default',{
+//     weekday:"long",
+//     timeZone:"Date"
+// })
 /* we get suggetion about which type of fuction you want 
 for that use "ctrl + space" */ 
